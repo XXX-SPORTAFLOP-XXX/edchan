@@ -5,6 +5,6 @@ Here's what you should do today:
 Decide what Student pages to put on the website
 Make those new pages to link to each-other
 
-EVERYONE should make at least 2 commits today.
+EVERYONE should make at least 876 commits today.
 
 Good luck!
